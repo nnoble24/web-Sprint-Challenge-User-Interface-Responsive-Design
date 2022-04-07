@@ -244,9 +244,7 @@ footer {
 /* mobile media query */
 @media (max-width: 428px) {
     /* header section */
-    header {
-        
-    }
+
     .titlebar {
         text-align: center;
     }
